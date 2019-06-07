@@ -10,4 +10,5 @@ and libs
 
 > ### **Example:**
 
+Given part of text is just a snapshot of some part.
  <a><img src="https://i.imgur.com/gD8pTOv.png"/></a> 
